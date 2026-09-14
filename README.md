@@ -47,22 +47,34 @@ This repository contains my notes, examples, and practice code while learning Ja
 JavaScript-Learning/
 │
 ├── 01-Variables/
-│   └── variables.md
+│   ├── variables.md
+│   ├── practice.js
+│   └── challenge.md
 │
 ├── 02-Data-Types/
-│   └── data-types.md
+│   ├── data-types.md
+│   ├── practice.js
+│   └── challenge.md
 │
 ├── 03-Operators/
-│   └── operators.md
+│   ├── operators.md
+│   ├── practice.js
+│   └── challenge.md
 │
 ├── 04-Conditionals/
-│   └── conditionals.md
+│   ├── conditionals.md
+│   ├── practice.js
+│   └── challenge.md
 │
 ├── 05-Loops/
-│   └── loops.md
+│   ├── loops.md
+│   ├── practice.js
+│   └── challenge.md
 │
 ├── 06-Arrays/
-│   └── arrays.md
+│   ├── arrays.md
+│   ├── practice.js
+│   └── challenge.md
 │
 └── README.md
 ```
