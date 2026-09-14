@@ -1,7 +1,7 @@
 🎯 Challenge
-Try changing cgpa and see what happens.
+# Try changing cgpa and see what happens.
 
-Then create:
+# Then create:
 
-let favoriteLanguage = "JavaScript";
-let learningHours = 2;
+# let favoriteLanguage = "JavaScript";
+# let learningHours = 2;
