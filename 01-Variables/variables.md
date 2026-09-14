@@ -1,4 +1,4 @@
-# JavaScript Variables 📦
+# JavaScript Variables 
 
 A **variable** is a container used to store data in JavaScript.
 
